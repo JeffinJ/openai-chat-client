@@ -4,6 +4,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+### ENV
+.env.local
+```dosini
+OPENAI_API_KEY=
+OPENAI_ORGANIZATION_ID=
+```
+
 First, run the development server:
 
 ```bash
